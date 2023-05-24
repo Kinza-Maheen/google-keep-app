@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-keep-app/static/css/main.e7f42cb4.css",
+    "main.js": "/google-keep-app/static/js/main.b56e939e.js",
+    "index.html": "/google-keep-app/index.html",
+    "main.e7f42cb4.css.map": "/google-keep-app/static/css/main.e7f42cb4.css.map",
+    "main.b56e939e.js.map": "/google-keep-app/static/js/main.b56e939e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f42cb4.css",
+    "static/js/main.b56e939e.js"
+  ]
+}
